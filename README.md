@@ -1,6 +1,11 @@
 # icinga2-slack-notifications
 Integrate Icinga2 with Slack and send notifications to a Slack channel #monitor
 
+Example:
+
+![Icinga2 Service Issue Notification](https://club3d.ro/git/icinga1.png "Icinga2 Slack screenshot")
+![Icinga2 Service Recovery Notification](https://club3d.ro/git/icinga2.png "Icinga2 Slack screenshot")
+
 The scripts were initially taken from this repo: https://github.com/jjethwa/icinga2-slack-notification
 
 I've modified them to suit my needs and also for a better output to Slack since the default output was pretty hard to read and also I wanted more details, for each notification, to be displayed on the Slack channel
